@@ -1,0 +1,21 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.advice-box {
+  min-height: 30rem;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+.advice-button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
